@@ -8,6 +8,7 @@ Colors Generator é uma ferramenta que permite ao usuário alterar o fundo da p�
 Sendo dividido em:
 
 Página que mostra as cores por seu nome;
+
 Página que mostra as cores em hexadecimal.
 
 
