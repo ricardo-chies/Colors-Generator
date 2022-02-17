@@ -13,5 +13,5 @@ Página que mostra as cores em hexadecimal.
 
 
 <p align="center">
-  <img width="720" height="400" src="src/assets/to_readme/colors-generator.gif">
+  <img width="720" height="400" src="src/assets/to_readme/ColorsGenerator.gif">
 </p>
