@@ -12,6 +12,8 @@ A segunda página contém um botão e uma label dizendo qual cor está sendo mos
 Ao clicar no botão, a cor de fundo será trocada para uma cor hexadecimal que será gerada aleatoriamente no JS.
 
 
+# Layout do Projeto
+
 <p align="center">
   <img width="720" height="400" src="src/assets/to_readme/ColorsGenerator.gif">
 </p>
