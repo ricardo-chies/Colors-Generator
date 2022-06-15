@@ -1,6 +1,5 @@
 # Colors-Generator
 
-
 # Descrição
 
 O projeto consiste em um site de duas páginas feito em HTML e JS.
@@ -35,5 +34,5 @@ Ao clicar no botão, a cor de fundo será trocada para uma cor hexadecimal que s
   https://www.linkedin.com/in/ricardo-chies-087557216/
   
   E-mail:
-  ricardochies5@gmail.com
+  chies.dev@gmail.com
 
